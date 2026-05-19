@@ -1,16 +1,31 @@
-## Hi there 👋
+# SeungJeh Chung
 
-<!--
-**teclados078/teclados078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. student at Kyung Hee University  
+Member of IIIXR Lab, Korea University
 
-Here are some ideas to get you started:
+I am a researcher in computer graphics, 3D generation, and neural rendering, with recent focus on efficient 3D Gaussian Splatting and Neural Rendering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- 3D Gaussian Splatting
+- Text-to-3D Generation
+- Generative Distillation
+- Neural Rendering
+- 3D Stylization
+- Extended Reality (XR), AR/VR Interaction
+
+## Selected Projects
+
+- **CAdam** — SIGGRAPH Conference Papers 2026  
+   Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation.
+
+- **3DStyleGLIP** — Pacific Graphics 2024  
+  Part-Tailored Text-Guided 3D Neural Stylization.
+
+- **VRCAT** — The Visual Computer 2023  
+  VR Collision Alarming Technique for User Safety.
+
+## Links
+
+- Homepage: https://teclados078.github.io
+- Email: teclados078@khu.ac.kr
