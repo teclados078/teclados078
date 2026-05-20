@@ -5,23 +5,23 @@ Member of IIIXR Lab, Korea University
 
 ## Research Interests
 
-- 3D Gaussian Splatting
-- Text-to-3D Generation
-- Generative Distillation
-- Neural Rendering
+- 3D Gaussian Splatting - focus
+- Diffusion & Flow Matching Model - focus
+- Neural Rendering - focus
+- 3D Generation
 - 3D Stylization
 - Extended Reality
-- AR/VR Interaction
+
 
 ## Selected Projects
 
-- **CAdam** — SIGGRAPH Conference Papers 2026  
+- **CAdam** — SIGGRAPH Conference Paper 2026  
    Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation.
 
-- **3DStyleGLIP** — Pacific Graphics 2024  
+- **3DStyleGLIP** — Pacific Graphics Conference Paper 2024  
   Part-Tailored Text-Guided 3D Neural Stylization.
 
-- **VRCAT** — The Visual Computer 2023  
+- **VRCAT** — The Visual Computer Journal Paper 2023  
   VR Collision Alarming Technique for User Safety.
 
 ## Links
