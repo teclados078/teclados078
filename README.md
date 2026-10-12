@@ -10,7 +10,7 @@ Member of **IIIXR Lab at Korea University**
 - Diffusion & Flow Matching Models
 - Extended Reality & 3D Stylization
 
-## Selected Publications
+## Publications
 
 - **CAdam** — ACM SIGGRAPH Conference Papers, 2026  
   Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation.  
@@ -26,38 +26,6 @@ Member of **IIIXR Lab at Korea University**
 - **VRCAT** — The Visual Computer, 2023  
   VR Collision Alarming Technique for User Safety.  
   [Paper](https://link.springer.com/article/10.1007/s00371-022-02676-y)
-
-## Research Projects (Government/Industry Funded)
-
-- **Gaussian VR Space Representation for Realistic Rendering and Interaction in Dynamic Lighting**  
-  National Research Foundation of Korea (NRF) · 2025–2029 · Main Researcher
-
-- **Physical AI Scene Generation Platform: Asset-Scene Generation for Humanoid Training Environments**  
-  LG CNS · 2026 · Main Researcher
-
-- **Interactive Gaussian Rendering for Game Development**  
-  Pearl Abyss · 2025–2026 · Main Researcher
-
-- **AI-Driven Rendering Pipeline for Next-Generation Game Production**  
-  Pearl Abyss · 2025–2026 · Main Researcher
-
-## Education
-
-- **Integrated M.S./Ph.D. in Software Convergence**  
-  Kyung Hee University · Mar. 2021 – Present
-
-- **B.S. in Software Convergence**  
-  Kyung Hee University · Mar. 2017 – Feb. 2021
-
-## Awards
-
-- **[Excellent Paper Award (우수상)](https://cg-korea.org/index.php?hCode=AWARD_02_03)**, KCGS 2026 — CAdam
-
-## Teaching & Service
-
-- Reviewer — CAD/Graphics 2026; Computers & Graphics, 2026
-- Future Faculty Forum Chair, IEEE VR 2026
-- Teaching Assistant, Computer Graphics, Kyung Hee University
 
 ## Links
 
