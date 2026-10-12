@@ -5,12 +5,10 @@ Member of IIIXR Lab, Korea University
 
 ## Research Interests
 
-- 3D Gaussian Splatting - focus
-- Diffusion & Flow Matching Model - focus
-- Neural Rendering - focus
-- 3D Generation
-- 3D Stylization
-- Extended Reality
+- 3D Scene Generation & Gaussian Splatting
+- Neural Rendering & Global Illumination
+- Diffusion & Flow Matching Models
+- Extended Reality & 3D Stylization
 
 
 ## Selected Projects
